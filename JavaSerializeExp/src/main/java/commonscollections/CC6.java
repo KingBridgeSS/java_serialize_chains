@@ -67,7 +67,7 @@ public class CC6 {
     public static Hashtable getHashMap3 () throws Exception{
         /*
          可以做到  x1.transform(不可控)    x1可控
-         用到LazyMap TiedMapEntry
+         用到LazyMap
          * */
         Transformer x1=transformer.Factory.getFactoryTransformer();
         Map hashMap1 = new HashMap();

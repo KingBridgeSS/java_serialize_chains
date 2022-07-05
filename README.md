@@ -1,0 +1,1 @@
+主要是commonscollections链的组合，便于要绕黑名单时抄袭
